@@ -1,0 +1,28 @@
+# Compiled class files
+*.class
+
+# Maven target directories
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.bak
+*.swp
